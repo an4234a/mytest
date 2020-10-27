@@ -1,4 +1,4 @@
-This is exercise for text processing in summer 2020.
+This is exercise for text processing in Summer 2020.
 
 ## part 1
 ```{r}
