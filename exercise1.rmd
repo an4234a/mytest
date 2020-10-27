@@ -1,14 +1,5 @@
----
-title: "Exercise 1"
-author: "Karissa Dysart, Erin Williams, Karla Oropeza, Alan Nurcahyo"
-date: "6/6/2020"
-output: pdf_document
----
+This is exercise for text processing in summer 2020.
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-This is exercise for text processing
 ## part 1
 ```{r}
 library(rvest)
